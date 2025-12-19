@@ -20,5 +20,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simon710Jay/MERN-COURSE.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Simon710Jay/MERN-COURSE/issues"
+  },
+  "homepage": "https://github.com/Simon710Jay/MERN-COURSE#readme"
 }
